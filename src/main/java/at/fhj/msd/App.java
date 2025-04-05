@@ -1,7 +1,7 @@
 package at.fhj.msd;
 
 /**
- * Hello world!
+ * @Umejr Dzinovic
  */
 public class App {
     public static void main(String[] args) {
